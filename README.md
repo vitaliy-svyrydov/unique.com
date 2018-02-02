@@ -15,8 +15,8 @@ Installing
 You can install the application using the following commands:
 
 ```sh
-git clone github.com/vitaliy-svyrydov/landing-page.git
-cd landing-page
+git clone github.com/vitaliy-svyrydov/unique.com.git
+cd unique.com
 cp .env.example .env
 ```
 
