@@ -20,7 +20,7 @@ cd landing-page
 cp .env.example .env
 ```
 
-Creat DB(and write the name, username and password to a file .env)
+Creat DB(and write the name, username and password to a .env file )
 
 When done, you need to execute the following commands in the directory:
 - `php artisan key:generate`
